@@ -1,8 +1,10 @@
 # Employeedb
+
 This database will allow you to add or remove departments, roles and employees in a company. it is to have a database running so the person in charge can keep track of things without losing the information. Since we are not deploying there is a video showing the functionality of this project. 
 
 
 ***User Story***
+
 AS A business owner
 
 I WANT to be able to view and manage the departments, roles, and employees in my company
