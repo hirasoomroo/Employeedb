@@ -1,5 +1,5 @@
 # Employeedb
-
+This database will allow you to add or remove departments, roles and employees in a company. it is to have a database running so the person in charge can keep track of things without losing the information. Since we are not deploying there is a video showing the functionality of this project. 
 ***User Story***
 AS A business owner
 
@@ -42,3 +42,6 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+
+
+Here is the link to view: https://drive.google.com/file/d/14R9IionTdxhbMH9V9hlz5CJ2qrm_6OLr/view
